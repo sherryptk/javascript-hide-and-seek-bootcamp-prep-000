@@ -17,11 +17,10 @@ function increaseRankBy(n){
     //parseInt(lis[i].innerHTML)=parseInt(lis[i].innerHTML)+n
 
     //number = parseInt(lis[i].innerHTML) +=3
-    
+
 
     // for (let i = 0; i < lis.length; i++) {
     //   console.log(lis[i].innerHTML)
     }
   }
   }
-  
