@@ -23,4 +23,4 @@ function increaseRankBy(n){
     //   console.log(lis[i].innerHTML)
     }
   }
-  }
+  
